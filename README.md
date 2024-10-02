@@ -33,5 +33,5 @@ An overview of frost buildup levels, temperature ranges inside and outside, and 
 
 
 ## Contributors
-- De Jesus, Ayheca Louis
+- De Jesus, Ayheca Louise
 - Pineda, Geri Greizelle
