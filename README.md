@@ -29,3 +29,9 @@ An overview of frost buildup levels, temperature ranges inside and outside, and 
 ## Rules Table
 
 ![Fuzzy Logic Rule](https://res.cloudinary.com/dzvd6o0og/image/upload/v1727350636/image_2024-09-26_19-35-37_rodecl.png)
+
+
+
+## Contributors
+- De Jesus, Ayheca Louis
+- Pineda, Geri Greizelle
